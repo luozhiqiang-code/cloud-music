@@ -61,7 +61,7 @@ const SongsList = React.forwardRef((props, refs) => {
     <SongList ref={refs} showBackground={props.showBackground}>
       <div className="first_line">
         <div className="play_all" onClick={(e) => selectItem(e, 0)}>
-          <span className="iconfont">&#xe6e3;</span>
+          <span className="iconfont">&#xec61;</span>
           <span>
             {" "}
             播放全部 <span className="sum">(共 {totalCount} 首)</span>
