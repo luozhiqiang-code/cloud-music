@@ -1,0 +1,44 @@
+{
+  "id": "3303381",
+  "name": "jianshu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4770728",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "6403458",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "356438",
+      "name": "放大镜",
+      "font_class": "fangdajing1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1174",
+      "name": "用研",
+      "font_class": "yongyan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
