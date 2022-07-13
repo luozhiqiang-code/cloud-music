@@ -81,10 +81,11 @@
 
 ```shell
 $ git clone https://github.com/luozhiqiang-code/cloud-music.git
-$ cd could-music
+$ cd cloud-music
 $ npm install
 
 $ git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+$ cd NeteaseCloudMusicApi
 $ npm install
 ```
 
