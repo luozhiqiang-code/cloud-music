@@ -48,6 +48,10 @@ export const getHotSingerList = () => {
       })
       .catch((err) => {
         console.log("热门歌手数据获取失败", err);
+        //关闭入场动画
+        dispatch(changeEnterLoading(false));
+        //关闭下拉刷新状态
+        dispatch(changePullDownLoadig(false));
       });
   };
 };
@@ -73,6 +77,8 @@ export const refreshMoreHotSingerList = () => {
       })
       .catch((err) => {
         console.log("加载更多热门歌手失败", err);
+        //关闭上拉加载状态
+        dispatch(changePullUpLoading(false));
       });
   };
 };
@@ -92,6 +98,10 @@ export const getSingerList = (category, alpha) => {
       })
       .catch((err) => {
         console.log("歌手数据获取失败", err);
+        //关闭入场动画
+        dispatch(changeEnterLoading(false));
+        //关闭下拉刷新状态
+        dispatch(changePullDownLoadig(false));
       });
   };
 };
@@ -112,6 +122,8 @@ export const refreshMoreSingerList = (category, alpha) => {
       })
       .catch((err) => {
         console.log("歌手数据获取失败", err);
+        //关闭上拉加载状态
+        dispatch(changePullUpLoading(false));
       });
   };
 };

@@ -24,8 +24,8 @@ export default function (props) {
   const [data, dispatch] = useReducer(
     reducer,
     fromJS({
-      category: "",
-      alpha: "",
+      category: "1001",
+      alpha: "A",
     })
   );
   //该组件返回一个Context组件，给子组件传递模拟的redux数据（data）,和派发修改数据的dispatch

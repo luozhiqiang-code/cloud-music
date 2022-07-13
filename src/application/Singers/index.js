@@ -67,12 +67,10 @@ function Singers(props) {
 
   const handlePullUp = () => {
     pullUpRefreshDispatch(category, alpha, category === "", pageCount);
-    console.log("pullup");
   };
 
   const handlePullDown = () => {
     pullDownRefreshDispath(category, alpha);
-    console.log("pulldown");
   };
   const navigate = useNavigate();
   const enterDetail = (detail) => {
