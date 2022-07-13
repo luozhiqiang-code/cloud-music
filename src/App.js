@@ -1,7 +1,7 @@
 import { GlobalStyle } from "./style";
-// import { IconStyle } from "./assets/iconfont/iconfont";
+import { IconStyle } from "./assets/iconfont/iconfont";
 import { HashRouter, Routes, Route } from "react-router-dom";
-import "./style.css";
+// import "./style.css";
 import { Provider } from "react-redux";
 import store from "./store";
 import Home from "./application/Home";
@@ -18,7 +18,7 @@ function App() {
     <Provider store={store}>
       <HashRouter>
         <GlobalStyle></GlobalStyle>
-        {/* <IconStyle></IconStyle> */}
+        <IconStyle></IconStyle>
         <Data>
           <Routes>
             <Route path="/" element={<Home />}>

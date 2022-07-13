@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect } from "react";
+import React, { useEffect } from "react";
 import Slider from "../../components/slider";
 import RecommendList from "../../components/list";
 import { Content } from "./style";

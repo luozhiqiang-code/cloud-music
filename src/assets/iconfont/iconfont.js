@@ -1,12 +1,12 @@
 import { createGlobalStyle } from "styled-components";
 
-// import icon1 from "./iconfont.woff2?t=1652791546918";
-// import icon2 from "./iconfont.woff?t=1652791546918";
-// import icon3 from "./iconfont.ttf?t=1652791546918";
+import icon1 from "./iconfont.woff2?t=1652791546918";
+import icon2 from "./iconfont.woff?t=1652791546918";
+import icon3 from "./iconfont.ttf?t=1652791546918";
 
-import icon1 from "http//at.alicdn.com/t/font_3424729_3wvym2rq9vv.woff2";
-import icon2 from "http//at.alicdn.com/t/font_3424729_3wvym2rq9vv.woff";
-import icon3 from "http//at.alicdn.com/t/font_3424729_3wvym2rq9vv.ttf";
+// import icon1 from "http//at.alicdn.com/t/font_3424729_3wvym2rq9vv.woff2";
+// import icon2 from "http//at.alicdn.com/t/font_3424729_3wvym2rq9vv.woff";
+// import icon3 from "http//at.alicdn.com/t/font_3424729_3wvym2rq9vv.ttf";
 
 export const IconStyle = createGlobalStyle`
 @font-face {

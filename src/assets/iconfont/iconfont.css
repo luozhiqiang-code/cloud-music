@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 3303381 */
-  src: url('./iconfont.woff2?t=1652791546918') format('woff2'),
-       url('./iconfont.woff?t=1652791546918') format('woff'),
-       url('./iconfont.ttf?t=1652791546918') format('truetype');
+  font-family: "iconfont"; /* Project id 3424729 */
+  src: url('iconfont.woff2?t=1657686233005') format('woff2'),
+       url('iconfont.woff?t=1657686233005') format('woff'),
+       url('iconfont.ttf?t=1657686233005') format('truetype');
 }
 
 .iconfont {
@@ -13,23 +13,111 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* .icon-fangdajing:before {
-  content: "\e637";
+.icon-xiayiqu101:before {
+  content: "\e719";
 }
 
-.icon-spin:before {
-  content: "\e606";
+.icon-bofang-xunhuanbofang:before {
+  content: "\e68d";
 }
 
-.icon-fangdajing1:before {
-  content: "\e60d";
+.icon-QA:before {
+  content: "\e6e5";
 }
 
-.icon-yongyan:before {
+.icon-erji:before {
+  content: "\e63f";
+}
+
+.icon-caidan1:before {
+  content: "\e660";
+}
+
+.icon-shangyiqu101:before {
+  content: "\e6e1";
+}
+
+.icon-weibiaoti519:before {
+  content: "\e616";
+}
+
+.icon-tianjia:before {
+  content: "\e622";
+}
+
+.icon-fanhui:before {
   content: "\e600";
 }
 
-.icon-Aa:before {
+.icon-gengduo-shuxiang:before {
+  content: "\e8c4";
+}
+
+.icon-pinglun:before {
+  content: "\e891";
+}
+
+.icon-suijibofang:before {
+  content: "\e66b";
+}
+
+.icon-zanting:before {
+  content: "\e629";
+}
+
+.icon-shanchu:before {
+  content: "\e718";
+}
+
+.icon-yunhang:before {
+  content: "\ec61";
+}
+
+.icon-tuya-:before {
+  content: "\e759";
+}
+
+.icon-24gl-playCircle:before {
+  content: "\ea6e";
+}
+
+.icon-24gf-play:before {
+  content: "\ea82";
+}
+
+.icon-24gf-playlistMusic4:before {
+  content: "\ea86";
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
+
+.icon-shoucang:before {
+  content: "\e8b9";
+}
+
+.icon-gedan:before {
   content: "\e636";
-} */
+}
+
+.icon-xiajiantou:before {
+  content: "\e62b";
+}
+
+.icon-xihuan-tianjia:before {
+  content: "\e637";
+}
+
+.icon-shunxubofang:before {
+  content: "\e6a1";
+}
+
+.icon-sousuo:before {
+  content: "\e752";
+}
+
+.icon-caidan:before {
+  content: "\e790";
+}
 
