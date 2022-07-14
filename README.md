@@ -6,6 +6,10 @@
 
 简介：本项目是以 React 全家桶 (包含 Hooks) 以及 immutable 数据流为基础打造的一款高质量的移动端音乐类 WebApp 
 
+## 项目地址
+打开方式:请用Chrome浏览器（按f12设置手机模式），或夸克手机浏览器打开。
+地址: https://quiet-mochi-00c19f.netlify.app/
+
 ## 技术栈
 
 前端部分:
@@ -33,9 +37,7 @@
 说明：本项目参考网易云音乐安卓端 app 界面开发，基础轮子组件没有借助任何 UI 框架，算是对自己的一个挑战，在这个过程也学到了不少设计经验。
 ![音乐播放器架构图](https://user-images.githubusercontent.com/65885530/178681272-36dd86ac-a576-4c86-be78-8f1b60f2d7bb.png)
 
-## 项目地址
-打开方式:请用Chrome浏览器（按f12设置手机模式），或夸克手机浏览器打开。
-地址: https://quiet-mochi-00c19f.netlify.app/
+
 ## 功能实现
 
 ### 1.首页推荐部分
