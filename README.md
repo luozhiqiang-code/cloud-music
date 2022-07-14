@@ -7,7 +7,7 @@
 简介：本项目是以 React 全家桶 (包含 Hooks) 以及 immutable 数据流为基础打造的一款高质量的移动端音乐类 WebApp 
 
 ## 项目地址
-打开方式:请用Chrome浏览器（按f12设置手机模式），或夸克手机浏览器打开。
+打开方式:请用Chrome浏览器（按f12设置手机模式），或用手机浏览器打开。
 地址: https://quiet-mochi-00c19f.netlify.app/
 
 ## 技术栈
