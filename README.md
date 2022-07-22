@@ -9,7 +9,8 @@
 ## 项目地址
 打开方式:请用Chrome浏览器（按f12设置手机模式），或用手机浏览器打开。
 地址: https://quiet-mochi-00c19f.netlify.app/
-![图片](https://user-images.githubusercontent.com/65885530/180375739-e5494205-1495-48db-91bb-3a1357a3c6fa.png)
+![QQ截图20220722141822](https://user-images.githubusercontent.com/65885530/180375998-cde8145a-8bf4-43f7-bb25-fffa7cc1e23c.png)
+
 ## 技术栈
 
 前端部分:
